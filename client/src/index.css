@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Victor+Mono:wght@700&display=swap');
+/*font-family: 'PT Serif', serif; */
+/*font-family: 'Victor Mono', monospace;*/
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
